@@ -1,32 +1,32 @@
-# 💡 LiFi Communication System for IoT
+# 💡 LiFi-Based Secure Communication System for IoT
 
 ## 📌 Overview
-This project implements a **LiFi (Light Fidelity) communication system** for IoT applications, where data is transmitted using light signals instead of traditional radio frequency (RF) communication.
-
-The system demonstrates efficient, secure, and low-interference wireless communication using LEDs and light sensors.
+This project simulates a **LiFi (Light Fidelity) communication system** integrated with **secure data transmission and quantum-inspired processing**. It demonstrates how light-based communication can be combined with encryption and simulation techniques for reliable IoT communication.
 
 ---
 
 ## 🏗️ Architecture
-- **Data Input**: Digital signal generation  
-- **Transmitter (LED)**: Converts data into light signals  
-- **Channel**: Light-based transmission  
-- **Receiver (Sensor/Photodiode)**: Captures light signals  
-- **Decoding Module**: Converts light back into digital data  
+- **Simulation Layer (SimPy)**: Models real-time data transmission  
+- **LiFi Transmission**: Data encoded into light signals  
+- **Receiver Module**: Decodes incoming signals  
+- **Security Layer**: Data encryption and decryption using cryptographic techniques  
+- **Quantum Module (Qiskit)**: Simulates quantum circuit behavior for enhanced processing  
+- **Visualization**: Performance and transmission analysis  
 
 ---
 
 ## 🎯 Output
-- Successful transmission of data via light  
-- Decoded signals at receiver end  
-- Performance visualization of transmission  
+- Secure transmission of data using LiFi  
+- Encrypted and decrypted message flow  
+- Simulation-based performance results  
+- Visualization of transmission behavior  
 
 ---
 
 ## 🛠️ Tech Stack
-Python, IoT concepts, Signal Processing, Arduino (optional/hardware-based)
+Python, SimPy, Qiskit, Cryptography, NumPy, Matplotlib
 
 ---
 
 ## 📌 Summary
-A lightweight and efficient IoT communication model using LiFi, offering faster and more secure data transmission compared to traditional wireless systems.
+A simulation-driven IoT communication system that combines **LiFi, encryption, and quantum computing concepts** to enable secure and efficient data transmission.
