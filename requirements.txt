@@ -1,0 +1,6 @@
+simpy>=4.0
+numpy>=1.21
+matplotlib>=3.5
+qiskit>=0.45
+qiskit-aer>=0.13
+cryptography>=41.0
